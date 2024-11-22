@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello there! 👋  
+I'm [Pedro], a passionate computer science student and incoming developer. 
 
-<!--
-**Whatever7499/Whatever7499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+- 🎓 Currently completing my **Bachelor's in Computer Science**.  
+- 💻 Favourite Programming languages: **JavaScript**  
+- 🌱 Learning and building projects to enhance my skills.  
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Version Control:** Git, GitHub  
+- **Other Tools:** VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 What I’m Working On  
+- Developing fun projects to showcase my JavaScript skills.  
+- Exploring frameworks like React and Node.js.    
+
+## 📫 How to Reach Me  
+- Email: [psimaosilva1@gmail.com]
