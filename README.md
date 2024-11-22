@@ -3,7 +3,7 @@ I'm Pedro, a passionate computer science student and incoming developer.
 
 ## 🚀 About Me  
 - 🎓 Currently completing my **Bachelor's in Computer Science**.
-- 🎓 Associate degree in Computer Science already completed.
+- 🎓 **Associate degree in Computer Science** already completed.
 - 💻 Favourite Programming languages: **JavaScript**  
 - 🌱 Learning and building projects to enhance my skills.  
 
