@@ -1,20 +1,21 @@
 # Hello there! 👋  
-I'm Pedro, a passionate computer science student and incoming developer. 
+I'm Pedro, a passionate computer science student and I'm exploring more the cybersecurity field. 
 
 ## 🚀 About Me  
 - 🎓 Currently completing my **Bachelor's in Computer Science**.
 - 🎓 **Associate degree in Computer Science** already completed.
 - 💻 Favourite Programming languages: **JavaScript**  
-- 🌱 Learning and building projects to enhance my skills.  
+- 💻 Learning Cybersecurity in depth.
 
 ## 🛠️ Skills & Tools  
 - **Frontend:** HTML, CSS, JavaScript  
-- **Version Control:** Git, GitHub  
-- **Other Tools:** VS Code  
+- **Other Tools:** VS Code, M-Files, Jira, Zendesk Admin
+- **Familiarity:** ISO 13485 and ISO 27001  
 
 ## 🌟 What I’m Working On  
-- Developing fun projects to showcase my JavaScript skills.  
-- Exploring frameworks like React and Node.js.    
+- CompTIA Security+ certification  (ongoing)
+- Certified Cloud Security Professional (CCSP) (ongoing)
+
 
 ## 📫 How to Reach Me  
 - Email: [psimaosilva1@gmail.com]
