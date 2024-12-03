@@ -5,16 +5,17 @@ I'm Pedro, a passionate computer science student and I'm exploring more the cybe
 - 🎓 **Bachelor's in Computer Science**.
 - 🎓 **Associate degree in Computer Science**
 - 💻 Favourite Programming languages: **JavaScript**  
-- 💻 1 year of experience as **Regulatory Affairs* in cybersecurity documentation
+- 💻 1 year of experience as *Regulatory Affairs* in cybersecurity documentation
 
 ## 🛠️ Skills & Tools  
 - **Frontend:** HTML, CSS, JavaScript  
-- **Other Tools:** VS Code, M-Files, Jira, Zendesk Admin
-- **Familiarity:** ISO 13485 and ISO 27001  
+- **Other Tools:** VS Code, Jira, Zendesk Admin, Splunk
 
-## 🌟 What I’m Working On  
-- CompTIA Security+ certification  (ongoing)
-- Certified Cloud Security Professional (CCSP) (ongoing)
+## 🌟 Certifications
+- CompTIA Security+ certification
+- CISCO CCNA
+- ISO 13485 Internal auditor
+- BSI - Post market surveillance 
 
 
 ## 📫 How to Reach Me  
