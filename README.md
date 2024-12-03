@@ -2,10 +2,10 @@
 I'm Pedro, a passionate computer science student and I'm exploring more the cybersecurity field. 
 
 ## 🚀 About Me  
-- 🎓 Currently completing my **Bachelor's in Computer Science**.
-- 🎓 **Associate degree in Computer Science** already completed.
+- 🎓 **Bachelor's in Computer Science**.
+- 🎓 **Associate degree in Computer Science**
 - 💻 Favourite Programming languages: **JavaScript**  
-- 💻 1 year of experience as **Regulatory Affairs Associate** in cybersecurity documentation
+- 💻 1 year of experience as **Regulatory Affairs* in cybersecurity documentation
 
 ## 🛠️ Skills & Tools  
 - **Frontend:** HTML, CSS, JavaScript  
