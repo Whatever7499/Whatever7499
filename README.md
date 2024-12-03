@@ -5,8 +5,7 @@ I'm Pedro, a passionate computer science student and I'm exploring more the cybe
 - 🎓 **Bachelor's in Computer Science**.
 - 🎓 **Associate degree in Computer Science**
 - 💻 Favourite Programming languages: **JavaScript**  
-- 💻 1 year of experience as *Regulatory Affairs* in cybersecurity documentation
-
+- 💻 1 year of experience as *Regulatory Affairs*
 ## 🛠️ Skills & Tools  
 - **Frontend:** HTML, CSS, JavaScript  
 - **Other Tools:** VS Code, Jira, Zendesk Admin, Splunk
