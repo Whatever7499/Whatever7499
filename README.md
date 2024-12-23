@@ -12,6 +12,7 @@ I'm Pedro, a passionate computer science student and I'm exploring more the cybe
 - CI/CD Pipeline
 - Docker
 - AWS
+- Github Actions
 - **Other Tools:** Jira, Zendesk Admin, Splunk
 
 ## 🌟 Certifications
