@@ -13,7 +13,7 @@
 - Docker
 - AWS
 - Github Actions
-- **Other Tools:** Jira, Zendesk Admin, Splunk
+- **Other Tools:** Jira, Zendesk Admin, Splunk, Python
 
 ## 🌟 Certifications
 - CompTIA Security+ 
