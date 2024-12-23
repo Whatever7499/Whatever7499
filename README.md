@@ -4,7 +4,7 @@ I'm Pedro, a passionate computer science student and I'm exploring more the cybe
 ## 🚀 About Me  
 - 🎓 **Bachelor's in Computer Science**.
 - 💻 Favourite Programming languages: **Python**  
-- 💻 1 year of experience as *Regulatory Affairs & Compliance*
+- 💻 Experience as *Regulatory Affairs & Compliance*
 - 💻 DevSecOps & Cloud Security
 ## 🛠️ Skills & Tools  
 - Terraform
