@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me  
-- 🎓 **Bachelor's in Computer Science**.
+- 🎓 Bachelor's in Computer Science.
 - 💻 Favourite Programming languages: **Python**  
 - 💻 Experience as *Regulatory Affairs & Compliance*
 - 💻 DevSecOps & Cloud Security
