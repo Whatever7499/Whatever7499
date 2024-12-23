@@ -3,16 +3,19 @@ I'm Pedro, a passionate computer science student and I'm exploring more the cybe
 
 ## 🚀 About Me  
 - 🎓 **Bachelor's in Computer Science**.
-- 🎓 **Associate degree in Computer Science**
-- 💻 Favourite Programming languages: **JavaScript**  
-- 💻 1 year of experience as *Regulatory Affairs*
+- 💻 Favourite Programming languages: **Python**  
+- 💻 1 year of experience as *Regulatory Affairs & Compliance*
+- 💻 DevSecOps & Cloud Security
 ## 🛠️ Skills & Tools  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Other Tools:** VS Code, Jira, Zendesk Admin, Splunk
+- Terraform
+- Kubernetes
+- CI/CD Pipeline
+- Docker
+- AWS
+- **Other Tools:** Jira, Zendesk Admin, Splunk
 
 ## 🌟 Certifications
-- CompTIA Security+ certification
-- CISCO CCNA
+- CompTIA Security+ 
 - ISO 13485 Internal auditor
 - BSI - Post market surveillance 
 
